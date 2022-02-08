@@ -1,3 +1,4 @@
-# Hashim's Notes
-#This is an H1 header (largest)
-##### This is an H6 header (smallest)
+#Hashim's Notes
+
+## Summary 
+This repository contains all of the notes taken by [Hashim](https://github.com/hasheng?tab=repositories) for the [Lighthouse Data Science Bootcamp](lighthouselabs.ca).
